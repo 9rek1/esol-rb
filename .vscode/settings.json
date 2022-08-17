@@ -1,0 +1,16 @@
+{
+  "ruby.codeCompletion": "rcodetools",
+  "ruby.format": "rubocop",
+  "ruby.intellisense": "rubyLocate",
+  "ruby.lint": {
+    "rubocop": { "useBundler": true, "except": ["Metrics"] }
+  },
+  "ruby.pathToBundler": "/Users/haoshi/.asdf/shims/",
+  "ruby.useBundler": true,
+  "ruby.useLanguageServer": true,
+  "solargraph.formatting": true,
+  "solargraph.commandPath": "/Users/haoshi/.asdf/installs/ruby/2.7.6/bin",
+  "solargraph.diagnostics": true,
+  "solargraph.bundlerPath": "/Users/haoshi/.asdf/shims/bundle",
+  "solargraph.useBundler": true
+}
